@@ -1,0 +1,10 @@
+D:\Work\CSProject\Fre\Fre\bin\Debug\Fre.exe.config
+D:\Work\CSProject\Fre\Fre\bin\Debug\Fre.exe
+D:\Work\CSProject\Fre\Fre\bin\Debug\Fre.pdb
+D:\Work\CSProject\Fre\Fre\obj\Debug\Fre.csprojAssemblyReference.cache
+D:\Work\CSProject\Fre\Fre\obj\Debug\Fre.Form1.resources
+D:\Work\CSProject\Fre\Fre\obj\Debug\Fre.Properties.Resources.resources
+D:\Work\CSProject\Fre\Fre\obj\Debug\Fre.csproj.GenerateResource.cache
+D:\Work\CSProject\Fre\Fre\obj\Debug\Fre.csproj.CoreCompileInputs.cache
+D:\Work\CSProject\Fre\Fre\obj\Debug\Fre.exe
+D:\Work\CSProject\Fre\Fre\obj\Debug\Fre.pdb

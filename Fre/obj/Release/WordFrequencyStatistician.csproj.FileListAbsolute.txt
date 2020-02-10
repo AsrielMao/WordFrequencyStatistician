@@ -1,0 +1,10 @@
+D:\Work\CSProject\Fre\Fre\obj\Release\WordFrequencyStatistician.csprojAssemblyReference.cache
+D:\Work\CSProject\Fre\Fre\obj\Release\WordFrequencyStatistician.Form1.resources
+D:\Work\CSProject\Fre\Fre\obj\Release\WordFrequencyStatistician.csproj.GenerateResource.cache
+D:\Work\CSProject\Fre\Fre\obj\Release\WordFrequencyStatistician.csproj.CoreCompileInputs.cache
+D:\Work\CSProject\Fre\Fre\bin\Release\WordFrequencyStatistician.exe.config
+D:\Work\CSProject\Fre\Fre\bin\Release\WordFrequencyStatistician.exe
+D:\Work\CSProject\Fre\Fre\bin\Release\WordFrequencyStatistician.pdb
+D:\Work\CSProject\Fre\Fre\obj\Release\WordFrequencyStatistician.Properties.Resources.resources
+D:\Work\CSProject\Fre\Fre\obj\Release\WordFrequencyStatistician.exe
+D:\Work\CSProject\Fre\Fre\obj\Release\WordFrequencyStatistician.pdb
